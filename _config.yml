@@ -8,7 +8,7 @@
 #                                                 /____/
 #
 # Title of your website
-title: "Feeling Responsive"
+title: "Probando Jekyll"
 
 
 # The slogan describes your website and is used on homepage in <title> and other important places
@@ -24,7 +24,7 @@ author: phlow
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://phlow.github.io/feeling-responsive'
+url: 'https://dvvita.github.io/'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
